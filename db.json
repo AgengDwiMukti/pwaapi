@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Rat, desert kangaroo","category":"Indigo"},
+{"id":2,"name":"Blue-breasted cordon bleu","category":"Violet"},
+{"id":3,"name":"African bush squirrel","category":"Turquoise"},
+{"id":4,"name":"Squirrel, golden-mantled ground","category":"Green"},
+{"id":5,"name":"Brindled gnu","category":"Turquoise"},
+{"id":6,"name":"Pronghorn","category":"Khaki"},
+{"id":7,"name":"Baboon, olive","category":"Red"},
+{"id":8,"name":"Wolf spider","category":"Maroon"},
+{"id":9,"name":"Alligator, mississippi","category":"Orange"},
+{"id":10,"name":"Crown of thorns starfish","category":"Orange"},
+{"id":11,"name":"White-eye, cape","category":"Pink"},
+{"id":12,"name":"Red sheep","category":"Crimson"},
+{"id":13,"name":"Eagle owl (unidentified)","category":"Teal"},
+{"id":14,"name":"Seal, harbor","category":"Puce"},
+{"id":15,"name":"White-necked stork","category":"Indigo"},
+{"id":16,"name":"Striped skunk","category":"Violet"},
+{"id":17,"name":"Thomson's gazelle","category":"Yellow"},
+{"id":18,"name":"Eastern box turtle","category":"Crimson"},
+{"id":19,"name":"Coatimundi, white-nosed","category":"Goldenrod"},
+{"id":20,"name":"Colobus, black and white","category":"Turquoise"
+]
+}
